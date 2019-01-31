@@ -1,0 +1,22 @@
+{
+  "name": "fem",
+  "version": "1.0.0",
+  "description": "I'm currently taking the [Complete Intro to React v4][course] course on Frontend Masters. This repo will house the code written as part of the course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-lucas/fem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacob-lucas/fem/issues"
+  },
+  "homepage": "https://github.com/jacob-lucas/fem#readme",
+  "dependencies": {
+    "prettier": "^1.16.3"
+  }
+}
