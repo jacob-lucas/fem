@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier --write \"src/**/*.{js,jsx,css,json}\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"**/*.{js,jsx}\" --quiet"
   },
   "repository": {
     "type": "git",
